@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasinishraq
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning DSA
+- 🌱 Learner
 
 
 <!---
